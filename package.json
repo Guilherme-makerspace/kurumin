@@ -1,0 +1,16 @@
+{
+  "name": "kurumin",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000u\u0000r\u0000u\u0000m\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Guilherme Oliveira Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
